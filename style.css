@@ -212,7 +212,7 @@ li{
         flex-wrap: wrap;
         padding: 3rem;
     }
-    .right{
+    .right {
         display: flex;
         justify-content: flex-start;
         align-items: center;
